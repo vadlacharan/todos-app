@@ -12,7 +12,7 @@
 		<button class="btn variant-filled-secondary mt-10"><a href="/register">Register</a></button>
 
 
-		<footer class="p mt-60"><a class="a variant-filled-surface p-2 hover:variant-filled-primary" href="https://www.instagram.com/charan_vishwakarma_/">@charan-vishwakarma</a></footer>
+		<footer class="p mt-52"><a class="a variant-filled-surface p-2 hover:variant-filled-primary" href="https://www.instagram.com/charan_vishwakarma_/">@charan-vishwakarma</a></footer>
 	</center>
 
 
